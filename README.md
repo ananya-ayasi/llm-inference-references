@@ -3,7 +3,7 @@
 A curated list of resources and articles on efficient and scalable LLM inference and deployment:
 
 - **[BentoML for LLM Serving](https://bentoml.com/llm/)**  
-  Explore how BentoML supports deployment and serving of language models.
+  Covers everything to know about LLM inference, from core concepts and performance metrics, to optimization techniques and operation best practices.
 
 - **[Efficient Model Serving with Fractional H100 GPUs](https://www.baseten.co/blog/using-fractional-h100-gpus-for-efficient-model-serving/#how-multi-instance-gpus-work)**  
   Baseten’s blog post explains how fractional GPU allocation and multi-instance GPU usage can optimize inference workloads.
